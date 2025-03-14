@@ -9,7 +9,7 @@ version: 2
 name: Ji-Woo Song
 title: NLP Researcher
 email: wjddus7431@gmail.com
-website: https://github.com/pinkmustard
+website: https://pinkmustard.tistory.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -32,8 +32,8 @@ linkedin_username: jiwoo-song1014
 # Additional icon links
 additional_links:
 - title: Tech Blog
-  icon: images/cv_icon.jpg #fas fa-globe
-  url: https://pinkmustard.tistory.com/
+  icon: fas fa-file-user
+  url: https://drive.google.com/file/d/1R82LOWjklVpWLM-C8Wdv18OuY4Myn1y7/view
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
