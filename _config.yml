@@ -32,7 +32,7 @@ linkedin_username: jiwoo-song1014
 # Additional icon links
 additional_links:
 - title: Tech Blog
-  icon: fas fa-file-user
+  icon: fas fa-id-badge
   url: https://drive.google.com/file/d/1R82LOWjklVpWLM-C8Wdv18OuY4Myn1y7/view
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
