@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Jiwoo Song
+name: Ji-Woo Song
 title: NLP Researcher
 email: wjddus7431@gmail.com
 website: https://github.com/pinkmustard
@@ -32,7 +32,7 @@ linkedin_username: jiwoo-song1014
 # Additional icon links
 additional_links:
 - title: Tech Blog
-  icon: fas fa-globe
+  icon: fa-light fa-blog
   url: https://pinkmustard.tistory.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -128,7 +128,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI and software engineering some of my other interests and hobbies are:
       - Playing & Watching FootBall(Real Madrid)
-      - Playing & Watching BaseBall(Newyork Yankees)
+      - Playing & Watching BaseBall(New York Yankees)
       - Playing & Watching LOL(SKT T1)
 
 
