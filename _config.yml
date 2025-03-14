@@ -72,7 +72,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          TAn AI service for acne detection and skin type classification using YOLOv8 and EfficientNet.
+          An AI service for acne detection and skin type classification using YOLOv8 and EfficientNet.
         description: | # this will include new lines to allow paragraphs
           Developed an AI-powered skincare assistant that detects acne count and classifies skin types using YOLOv8 and EfficientNet. Implemented both a mobile app and a web version.
 
@@ -97,9 +97,9 @@ content:
         sub_title: Ungraduate Researcher
         caption: December 2023 - December 2024
         quote: >
-          Conducted research on feature selection using genetic algorithms in machine learning.
+          Conducted research on feature selection using genetic algorithms to improve machine learning-based sarcopenia prediction.
         description: | # this will include new lines to allow paragraphs
-            Applied genetic algorithms to feature selection using the KLoSA dataset to improve machine learning model performance.
+            Focused on applying genetic algorithms for feature selection in sarcopenia prediction models. Processed survey data from the KLoSA dataset, reducing features while improving model performance. Evaluated logistic regression, XGBoost, and random forest classifiers to assess the effectiveness of selected features.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -120,12 +120,13 @@ content:
         quote: >
           Gained experience in AI and software engineering research.
         description: | # this will include new lines to allow paragraphs
-          Conducted machine learning research and AI-related projects, graduating with a major GPA of 4.08/4.5.
+          Conducted machine learning research and AI-related projects, graduating with a major GPA of 4.08/4.5 and an overall GPA of 4.00/4.5. In addition to AI, gained broad experience in computer science, including web development, SQL, Linux, and data analysis.
+
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in AI and software engineering some of my other interests and hobbies are:
       - Playing & Watching FootBall(Real Madrid)
       - Playing & Watching BaseBall(Newyork Yankees)
       - Playing & Watching LOL(SKT T1)
