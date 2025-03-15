@@ -116,7 +116,7 @@ content:
       - layout: left
         title: Gachon University
         caption: March 2019 - February 2025
-        sub_title: B.S. Computer Engineering
+        sub_title: B.S. Computer Science
         quote: >
           Gained experience in AI and software engineering research.
         description: | # this will include new lines to allow paragraphs
