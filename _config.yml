@@ -33,7 +33,7 @@ linkedin_username: jiwoo-song1014
 additional_links:
 - title: Tech Blog
   icon: fas fa-id-badge
-  url: https://drive.google.com/file/d/1R82LOWjklVpWLM-C8Wdv18OuY4Myn1y7/view
+  url: https://drive.google.com/file/d/1fbUXziejjfY62V6dZAuvNvT9FSJlj5Vl/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -65,9 +65,9 @@ content:
         link: https://github.com/Computer-skunks
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  AI Skincare Assistant Service
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/Computer-skunks
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
