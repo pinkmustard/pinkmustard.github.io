@@ -108,8 +108,8 @@ content:
     content:
       - layout: top-middle
         title: "K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1"
-        link: Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025), ACL 2025 Workshop; pp. 1145–1163; Vienna, Austria; August 1, 2025.
-        # link_text: Project Website
+        link: https://aclanthology.org/2025.bea-1.90/
+        link_text: Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025), ACL 2025 Workshop; pp. 1145–1163; Vienna, Austria; August 1, 2025.
         additional_links:
           - title:  "K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1"
             # icon: fas fa-book-open
@@ -125,8 +125,8 @@ content:
 
       - layout: top-middle
         title: An Embedding-Based Dynamic Few-Shot PromptingStrategy for Solving Multimodal Math Problems
-        link: Proceedings of the Korea Computer Congress 2025 (KCC 2025), KIISE; pp. 560–562; July 1–4, 2025.
-        # link_text: Project Website
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246
+        link_text: Proceedings of the Korea Computer Congress 2025 (KCC 2025), KIISE; pp. 560–562; July 1–4, 2025.
         additional_links:
           - title:  An Embedding-Based Dynamic Few-Shot PromptingStrategy for Solving Multimodal Math Problems
             # icon: fas fa-book-open
