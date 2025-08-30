@@ -117,7 +117,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+        quote: |
           Geon Park*, Jiwoo Song*, Gihyeon Choi*, Juoh Sun*, and Harksoo Kim (*co-first author)
 
           Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025), ACL 2025 Workshop; pp. 1–19; Vienna, Austria; August 1, 2025.
@@ -136,7 +136,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+        quote: |
           Jiwoo Song*, Juoh Sun, and Harksoo Kim (*1st author)
 
           Proceedings of the Korea Computer Congress 2025 (KCC 2025), KIISE; pp. 560–562; July 1–4, 2025.
