@@ -107,11 +107,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1
+        title: "K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1"
         link: https://aclanthology.org/2025.bea-1.90/
         # link_text: Project Website
         additional_links:
-          - title:  K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1
+          - title:  "K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1"
             icon: far fa-book-open
             url: https://aclanthology.org/2025.bea-1.90/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
