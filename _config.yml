@@ -109,6 +109,8 @@ content:
       - layout: top-middle
         title: "K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1"
         link: https://aclanthology.org/2025.bea-1.90/
+        quote: >
+          This paper presents automatic evaluation systems for assessing the pedagogical capabilities of LLM-based AI tutors.(*co-first author)
         # link_text: Project Website
         additional_links:
           - title:  "K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1"
@@ -117,8 +119,6 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This paper presents automatic evaluation systems for assessing the pedagogical capabilities of LLM-based AI tutors.(*co-first author)
         description: | # this will include new lines to allow paragraphs
           Introduced automatic evaluation systems leveraging GPT-4.1 to assess AI tutor responses across four pedagogical dimensions: Mistake Identification, Mistake Location, Providing Guidance, and Actionability. Achieved macro F1 scores of 58.80% (Mistake Location, ranked top-3) and 56.06% (Providing Guidance, ranked top-5), demonstrating effectiveness in evaluating educational response quality.
 
