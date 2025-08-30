@@ -57,24 +57,26 @@ about_content: | # this will include new lines to allow paragraphs
   I am proficient in Python, PyTorch, and Scikit-learn, and I have hands-on experience with software development, web applications, and data engineering.
 
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: AI Skincare Assistant Service
-        link: https://github.com/Computer-skunks
-        # link_text: Project Website
-        additional_links:
-          - title:  AI Skincare Assistant Service
-            icon: fab fa-github
-            url: https://github.com/Computer-skunks
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      - layout: left
+        title: Konkuk University
+        caption: March 2025 - Present
+        sub_title: M.S. Artificial Intelligence
         quote: >
-          An AI service for acne detection and skin type classification using YOLOv8 and EfficientNet.
+          Conducting research on LLM and VLM hallucination mitigation.
         description: | # this will include new lines to allow paragraphs
-          Developed an AI-powered skincare assistant that detects acne count and classifies skin types using YOLOv8 and EfficientNet. Implemented both a mobile app and a web version.
+          Pursuing a master's degree in Artificial Intelligence, specializing in natural language processing (NLP) with a focus on hallucination mitigation in large language models (LLMs) and retrieval-augmented generation (RAG) performance enhancement.
+      
+      - layout: left
+        title: Gachon University
+        caption: March 2019 - February 2025
+        sub_title: B.S. Computer Science
+        quote: >
+          Gained experience in AI and software engineering research.
+        description: | # this will include new lines to allow paragraphs
+          Conducted machine learning research and AI-related projects, graduating with a major GPA of 4.08/4.5 and an overall GPA of 4.00/4.5. In addition to AI, gained broad experience in computer science, including web development, SQL, Linux, and data analysis.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -100,27 +102,60 @@ content:
           Conducted research on feature selection using genetic algorithms to improve machine learning-based sarcopenia prediction.
         description: | # this will include new lines to allow paragraphs
             Focused on applying genetic algorithms for feature selection in sarcopenia prediction models. Processed survey data from the KLoSA dataset, reducing features while improving model performance. Evaluated logistic regression, XGBoost, and random forest classifiers to assess the effectiveness of selected features.
-
-  - title: Education # Title for the section
+  
+  - title: Paper # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Konkuk University
-        caption: March 2025 - Present
-        sub_title: M.S. Artificial Intelligence
+      - layout: top-middle
+        title: K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1
+        link: https://aclanthology.org/2025.bea-1.90/
+        # link_text: Project Website
+        additional_links:
+          - title:  K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1
+            icon: far fa-book-open
+            url: https://aclanthology.org/2025.bea-1.90/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Conducting research on LLM and VLM hallucination mitigation.
+          This paper presents automatic evaluation systems for assessing the pedagogical capabilities of LLM-based AI tutors.(*co-first author)
         description: | # this will include new lines to allow paragraphs
-          Pursuing a master's degree in Artificial Intelligence, specializing in natural language processing (NLP) with a focus on hallucination mitigation in large language models (LLMs) and retrieval-augmented generation (RAG) performance enhancement.
-      
-      - layout: left
-        title: Gachon University
-        caption: March 2019 - February 2025
-        sub_title: B.S. Computer Science
+          Introduced automatic evaluation systems leveraging GPT-4.1 to assess AI tutor responses across four pedagogical dimensions: Mistake Identification, Mistake Location, Providing Guidance, and Actionability. Achieved macro F1 scores of 58.80% (Mistake Location, ranked top-3) and 56.06% (Providing Guidance, ranked top-5), demonstrating effectiveness in evaluating educational response quality.
+
+      - layout: top-middle
+        title: 멀티모달 수학 문제 해결을 위한 임베딩 기반 동적 Few-Shot 프롬프트 전략
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246
+        # link_text: Project Website
+        additional_links:
+          - title:  멀티모달 수학 문제 해결을 위한 임베딩 기반 동적 Few-Shot 프롬프트 전략
+            icon: far fa-book-open
+            url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Gained experience in AI and software engineering research.
+          A dynamic few-shot prompting strategy for multimodal math problem solving using embedding-based similarity retrieval.(1st author)
         description: | # this will include new lines to allow paragraphs
-          Conducted machine learning research and AI-related projects, graduating with a major GPA of 4.08/4.5 and an overall GPA of 4.00/4.5. In addition to AI, gained broad experience in computer science, including web development, SQL, Linux, and data analysis.
+          Proposed a dynamic few-shot prompting strategy that retrieves relevant examples via embedding-based similarity between visual and textual features. The method improves reasoning and diagram interpretation in multimodal math problem solving, achieving 50.68% accuracy with GPT-4.1-mini and outperforming zero-shot, static, and random few-shot baselines.
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: AI Skincare Assistant Service
+        link: https://github.com/Computer-skunks
+        # link_text: Project Website
+        additional_links:
+          - title:  AI Skincare Assistant Service
+            icon: fab fa-github
+            url: https://github.com/Computer-skunks
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          An AI service for acne detection and skin type classification using YOLOv8 and EfficientNet.
+        description: | # this will include new lines to allow paragraphs
+          Developed an AI-powered skincare assistant that detects acne count and classifies skin types using YOLOv8 and EfficientNet. Implemented both a mobile app and a web version.
 
 
   - title: A Little More About Me
