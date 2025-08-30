@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Previously, I conducted research on feature selection using genetic algorithms and machine learning for healthcare applications.
 
-  I am proficient in Python, PyTorch, and Scikit-learn, and I have hands-on experience with software development, web applications, and data engineering.
+  I am proficient in Python, PyTorch, Scikit-learn and VLLM, and I have hands-on experience with software development, web applications, and data engineering.
 
 content:
   - title: Education # Title for the section
