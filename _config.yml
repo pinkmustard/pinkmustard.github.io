@@ -119,6 +119,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Geon Park*, Jiwoo Song*, Gihyeon Choi*, Juoh Sun*, and Harksoo Kim (*co-first author)
+
+          Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025), ACL 2025 Workshop; pp. 1–19; Vienna, Austria; August 1, 2025.
+
         description: | # this will include new lines to allow paragraphs
           Introduced automatic evaluation systems leveraging GPT-4.1 to assess AI tutor responses across four pedagogical dimensions: Mistake Identification, Mistake Location, Providing Guidance, and Actionability. Achieved macro F1 scores of 58.80% (Mistake Location, ranked top-3) and 56.06% (Providing Guidance, ranked top-5), demonstrating effectiveness in evaluating educational response quality.
 
@@ -135,8 +138,27 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Jiwoo Song*, Juoh Sun, and Harksoo Kim (*1st author)
+
+          Proceedings of the Korea Computer Congress 2025 (KCC 2025), KIISE; pp. 560–562; July 1–4, 2025.
         description: | # this will include new lines to allow paragraphs
           Proposed a dynamic few-shot prompting strategy that retrieves relevant examples via embedding-based similarity between visual and textual features. The method improves reasoning and diagram interpretation in multimodal math problem solving, achieving 50.68% accuracy with GPT-4.1-mini and outperforming zero-shot, static, and random few-shot baselines.
+
+      # - layout: top-middle
+      #   title: Enhancing Sarcopenia Prediction with Genetic Algorithms for Feature Selection
+      #   # link: 
+      #   # link_text: Project Website
+      #   # additional_links:
+      #   #   - title:  Enhancing Sarcopenia Prediction with Genetic Algorithms for Feature Selection
+      #   #     icon: far fa-book-open
+      #   #     url: 
+      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #     #   icon: fab fa-github
+      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      #   quote: >
+      #     Jiwoo Song*, Jaehyeong Lee, and Yourim Yoon (*1st author)(under review)
+      #   description: | # this will include new lines to allow paragraphs
+      #     Improved sarcopenia prediction on KLoSA survey data through preprocessing and genetic-algorithm feature selection, reducing features from 2,756 to 613 and achieving up to 84.73% accuracy (F1 0.5953) with logistic regression, XGBoost, and random forest—demonstrating GA’s utility for survey-type clinical data.
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
