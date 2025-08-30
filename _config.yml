@@ -50,11 +50,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ji-Woo Song, and I am a graduate student in Artificial Intelligence at Konkuk University. I am currently conducting research at the NLP Lab, focusing on <mark>Natural Language Processing (NLP)</mark> and <mark>Large Language Models (LLMs)</mark>.
 
-  My research interests include mitigating hallucinations in LLMs and improving retrieval-augmented generation (RAG) search performance. I have experience working with machine learning, deep learning, and software optimization techniques.
+  Currently, my research interests include mitigating hallucinations in LLMs, reinforcement learning (RL), and improving retrieval-augmented generation (RAG) search performance.
 
-  Previously, I conducted research on feature selection using genetic algorithms and machine learning for healthcare applications.
+  During my undergraduate studies, I conducted research on feature selection using genetic algorithms and machine learning for healthcare applications.
 
-  I am proficient in Python, PyTorch, Scikit-learn and VLLM, and I have hands-on experience with software development, web applications, and data engineering.
+  I am proficient in Python and AI/ML tools (e.g., PyTorch, vLLM, scikit-learn) with hands-on lab research experience, and have light experience with web development and data engineering.
 
 content:
   - title: Education # Title for the section
@@ -64,17 +64,17 @@ content:
         title: Konkuk University
         caption: March 2025 - Present
         sub_title: M.S. Artificial Intelligence
-        quote: >
-          Conducting research on LLM and VLM hallucination mitigation.
+        # quote: >
+        #   Conducting research on LLM and VLM hallucination mitigation.
         description: | # this will include new lines to allow paragraphs
-          Pursuing a master's degree in Artificial Intelligence, specializing in natural language processing (NLP) with a focus on hallucination mitigation in large language models (LLMs) and retrieval-augmented generation (RAG) performance enhancement.
+          I am pursuing an M.S. in Artificial Intelligence, taking a comprehensive AI curriculum across core areas and developing a strong focus on NLP. Current GPA: 4.5/4.5.
       
       - layout: left
         title: Gachon University
         caption: March 2019 - February 2025
         sub_title: B.S. Computer Science
-        quote: >
-          Gained experience in AI and software engineering research.
+        # quote: >
+        #   Gained experience in AI and software engineering research.
         description: | # this will include new lines to allow paragraphs
           Conducted machine learning research and AI-related projects, graduating with a major GPA of 4.08/4.5 and an overall GPA of 4.00/4.5. In addition to AI, gained broad experience in computer science, including web development, SQL, Linux, and data analysis.
 
@@ -123,11 +123,11 @@ content:
           Introduced automatic evaluation systems leveraging GPT-4.1 to assess AI tutor responses across four pedagogical dimensions: Mistake Identification, Mistake Location, Providing Guidance, and Actionability. Achieved macro F1 scores of 58.80% (Mistake Location, ranked top-3) and 56.06% (Providing Guidance, ranked top-5), demonstrating effectiveness in evaluating educational response quality.
 
       - layout: top-middle
-        title: 멀티모달 수학 문제 해결을 위한 임베딩 기반 동적 Few-Shot 프롬프트 전략
+        title: An Embedding-Based Dynamic Few-Shot PromptingStrategy for Solving Multimodal Math Problems
         link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246
         # link_text: Project Website
         additional_links:
-          - title:  멀티모달 수학 문제 해결을 위한 임베딩 기반 동적 Few-Shot 프롬프트 전략
+          - title:  An Embedding-Based Dynamic Few-Shot PromptingStrategy for Solving Multimodal Math Problems
             icon: far fa-book-open
             url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
