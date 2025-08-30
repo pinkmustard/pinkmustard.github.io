@@ -112,7 +112,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  "K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1"
-            icon: far fa-book-open
+            # icon: far fa-book-open
             url: https://aclanthology.org/2025.bea-1.90/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -131,7 +131,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  An Embedding-Based Dynamic Few-Shot PromptingStrategy for Solving Multimodal Math Problems
-            icon: far fa-book-open
+            # icon: far fa-book-open
             url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
