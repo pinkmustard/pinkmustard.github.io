@@ -8,11 +8,11 @@ Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ Konkuk Univ, advi
 
 
 ## Experience
-- NLP Lab(Konkuk Univ)
+- [NLP Lab](http://nlp.konkuk.ac.kr/)(Konkuk Univ)
   - Graduated Student (Jan 2025 - )
   - Advisor: Harksoo Kim
 
-- Algorithm Lab(Gachon Univ)
+- [Algorithm Lab](https://ce.gachon.ac.kr/algorithm-lab)(Gachon Univ)
   - Undergraduated Student (Dec 2023 - Dec 2024)
   - Advisor: Yourim Yoon
 
