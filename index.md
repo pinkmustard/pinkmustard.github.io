@@ -1,10 +1,10 @@
 ## About
-Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ Konkuk Univ, advised by Harksoo Kim.
+Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](https://www.konkuk.ac.kr/konkuk/index.do), advised by Harksoo Kim.
 
 
 ## Education
-- M.S. in Artificial Intelligence, Konkuk University, Mar 2025 - 
-- B.S. in Computer Science, Gachon University, Mar 2019 - Feb 2025
+- M.S. in Artificial Intelligence, [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do), Mar 2025 - 
+- B.S. in Computer Science, [Gachon University](https://www.gachon.ac.kr/kor/index.do), Mar 2019 - Feb 2025
 
 
 ## Experience
