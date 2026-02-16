@@ -1,5 +1,5 @@
 ## About
-Hi, I am a M.S. student at [KUNLP Lab.](http://nlp.konkuk.ac.kr/) @ Konkuk Univ, advised by Harksoo Kim.
+Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ Konkuk Univ, advised by Harksoo Kim.
 
 
 ## Education
@@ -8,25 +8,53 @@ Hi, I am a M.S. student at [KUNLP Lab.](http://nlp.konkuk.ac.kr/) @ Konkuk Univ,
 
 
 ## Experience
+- NLP Lab(Konkuk Univ)
+  - Graduated Student (Jan 2025 - )
+  - Advisor: Harksoo Kim
+
 - Algorithm Lab(Gachon Univ)
   - Undergraduated Student (Dec 2023 - Dec 2024)
   - Advisor: Yourim Yoon
 
 
 ## Publications
-- **Improving LLM Responses to Sensitive Topics Through Fine-Grained Evaluation** (EACL-Findings 2026)
-  - Juhyun Oh<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Chani Jung, **Jiho Jin**, Junho Myung, Jongwon Lee, Taieui Song, Alice Oh
+- **Enhancing Tutor Utterance Quality via GRPO Guided by Student Learning Outcomes** (KSC 2025)
+  - **Jiwoo Song**, Juoh Sun, Harksoo Kim
 
-- **Shared Heritage, Distinct Writing: Rethinking Resource Selection for East Asian Historical Documents** (IJCNLP-AACL-Findings 2025)
-  - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2411.04822)
+- **Building a Math Tutoring Model Using Model Merging Techniques** (HCLT 2025)
+  - Juoh Sun, Geon Park, **Jiwoo Song**, Harksoo Kim
+  - [paper](https://koreascience.kr/article/CFKO202533857636734.pub?&lang=ko&orgId=sighlt)
+
+- **Constructing a Math Tutoring Dataset Based on Student Comprehension States** (HCLT 2025)
+  - **Jiwoo Song**, Juoh Sun, Geon Park, Harksoo Kim
+  - [paper](https://koreascience.kr/article/CFKO202533836037922.page)
+
+- **Enhancing Sarcopenia Prediction with Genetic Algorithms for Feature Selection** (Journal of KIISE, 2025)
+  - **Jiwoo Song**, Jaehyeong Lee, Yourim Yoon
+  - [paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243724)
+
+- **K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1** (BEA workshop at ACL 2025)
+  - Geon Park<sup>\*</sup>, **Jiwoo Song**<sup>\*</sup>, Gihyeon Choi<sup>\*</sup>, Juoh Sun<sup>\*</sup>, Harksoo Kim
+  - [paper](https://aclanthology.org/2025.bea-1.90/)
+
+- **LoCCA-Frame: A Low-Cost and Strategy-Guided Prompting Framework for Enhancing Diagnosis-Prediction Mental Health Counseling** (KCC 2025)
+  - Kwangil Kim<sup>\*</sup>, Seulgi Kim, Seongbae Park, Taewoong Yoon, **Jiwoo Song**, Yeonseok Choi, Harksoo Kim
+  - [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318248)
+
+- **An Embedding-Based Dynamic Few-Shot Prompting Strategy for Solving Multimodal Math Problems** (KCC 2025)
+  - **Jiwoo Song**, Juoh Sun, Harksoo Kim
+  - [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246)
 
 ## Others
-- **World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models** (2025)
-  - Eunsu Kim<sup>\*</sup>, Junyeong Park<sup>\*</sup>, Na Min An<sup>\*</sup>, Junseong Kim<sup>\*\*</sup>, Hitesh Laxmichand Patel<sup>\*\*</sup>, **Jiho Jin**<sup>\*\*</sup>, Julia Kruk, Amit Agarwal, Srikant Panda, Fenal Ashokbhai Ilasariya, Hyunjung Shim, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2511.22787)
+- Grand Prize & KT Special Award, AI Malpyeong Competition, National Institute of Korean Language (Oct 2025)
+
+- Best Paper Award (COLING 2022 Gyeongju Paper Award), The 2025 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2025) (Oct 2025)
+
+- 5th Place, BEA 2025 Shared Task – Subtask 3: Providing Guidance (May 2025)
 
 ## Teaching Experiences
-- Teaching Assistant, [Introduction to Programming](https://cs101.kaist.ac.kr/) (Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025)
-- Teaching Assistant, [Machine Learning for Natural Language Processing](https://github.com/uilab-kaist/cs475-mlnlp-fall-2023) (Fall 2023)
-- Teaching Assistant, [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) (Fall 2021)
+- Part-time Instructor, Design Coding School (Jeongja Branch), Seongnam, South Korea (Jan 2023 – Aug 2023)
+  - Taught Scratch, HTML, Arduino, Python, and scikit-learn
+
+- Teaching Assistant, Gachon University (Ganghwa Campus), Incheon, South Korea (Oct 2022 – Dec 2022)
+  - Assisted in Arduino education and provided Q&A sessions for first-year undergraduate students
