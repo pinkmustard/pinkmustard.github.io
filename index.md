@@ -46,15 +46,21 @@ Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ Konkuk Univ, advi
   - [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246)
 
 ## Others
-- Grand Prize & KT Special Award, AI Malpyeong Competition, National Institute of Korean Language (Oct 2025)
+- **Grand Prize & KT Special Award**
+  - AI Malpyeong Competition, National Institute of Korean Language (Oct 2025)
+  - 1st Place (Category A) & 2nd Place (Category B): Korean Culture Question Answering
 
-- Best Paper Award (COLING 2022 Gyeongju Paper Award), The 2025 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2025) (Oct 2025)
+- **Best Paper Award (COLING 2022 Gyeongju Paper Award)**
+  - The 2025 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2025) (Oct 2025)
 
-- 5th Place, BEA 2025 Shared Task – Subtask 3: Providing Guidance (May 2025)
+- **5th Place**
+  - BEA 2025 Shared Task – Subtask 3: Providing Guidance (May 2025)
 
 ## Teaching Experiences
-- Part-time Instructor, Design Coding School (Jeongja Branch), Seongnam, South Korea (Jan 2023 – Aug 2023)
+- **Part-time Instructor**, 
+  - Design Coding School (Jeongja Branch), Seongnam, South Korea (Jan 2023 – Aug 2023)
   - Taught Scratch, HTML, Arduino, Python, and scikit-learn
 
-- Teaching Assistant, Gachon University (Ganghwa Campus), Incheon, South Korea (Oct 2022 – Dec 2022)
+- **Teaching Assistant**
+  - Gachon University (Ganghwa Campus), Incheon, South Korea (Oct 2022 – Dec 2022)
   - Assisted in Arduino education and provided Q&A sessions for first-year undergraduate students
