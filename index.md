@@ -1,5 +1,5 @@
 ## About
-Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](https://www.konkuk.ac.kr/konkuk/index.do), advised by Harksoo Kim.
+Hi, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](https://www.konkuk.ac.kr/konkuk/index.do), advised by Harksoo Kim.
 
 
 ## Education
@@ -34,7 +34,7 @@ Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](htt
   - [paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243724)
 
 - **K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1** (BEA workshop at ACL 2025)
-  - Geon Park<sup>\*</sup>, **Jiwoo Song**<sup>\*</sup>, Gihyeon Choi<sup>\*</sup>, Juoh Sun<sup>\*</sup>, Harksoo Kim
+  - Geon Park<sup>\*</sup>, **Jiwoo Song<sup>\*</sup>**, Gihyeon Choi<sup>\*</sup>, Juoh Sun<sup>\*</sup>, Harksoo Kim
   - [paper](https://aclanthology.org/2025.bea-1.90/)
 
 - **LoCCA-Frame: A Low-Cost and Strategy-Guided Prompting Framework for Enhancing Diagnosis-Prediction Mental Health Counseling** (KCC 2025)
@@ -47,7 +47,7 @@ Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](htt
 
 ## Others
 - **Grand Prize & KT Special Award**
-  - AI Malpyeong Competition, National Institute of Korean Language (Oct 2025)
+  - AI Malpyeong, National Institute of Korean Language (Oct 2025)
   - 1st Place (Category A) & 2nd Place (Category B): Korean Culture Question Answering
 
 - **Best Paper Award (COLING 2022 Gyeongju Paper Award)**
@@ -58,7 +58,7 @@ Hi, I am a M.S. student at [KUNLP](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](htt
 
 ## Teaching Experiences
 - **Part-time Instructor**, 
-  - Design Coding School (Jeongja Branch), Seongnam, South Korea (Jan 2023 – Aug 2023)
+  - Design Coding School, Seongnam, South Korea (Jan 2023 – Aug 2023)
   - Taught Scratch, HTML, Arduino, Python, and scikit-learn
 
 - **Teaching Assistant**
