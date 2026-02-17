@@ -45,7 +45,7 @@ Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk 
   - **Jiwoo Song**, Juoh Sun, Harksoo Kim
   - [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318246)
 
-## Others
+## Awards
 - **Grand Prize & KT Special Award**
   - AI Malpyeong, National Institute of Korean Language (Oct 2025)
   - 1st Place (Category 가) & 2nd Place (Category 나): Korean Culture Question Answering
