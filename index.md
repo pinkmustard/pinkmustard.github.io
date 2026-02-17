@@ -1,5 +1,5 @@
 ## About
-Hi, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](https://www.konkuk.ac.kr/konkuk/index.do), advised by Harksoo Kim.
+Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](https://www.konkuk.ac.kr/konkuk/index.do), advised by Harksoo Kim.
 
 
 ## Education
@@ -48,7 +48,7 @@ Hi, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](h
 ## Others
 - **Grand Prize & KT Special Award**
   - AI Malpyeong, National Institute of Korean Language (Oct 2025)
-  - 1st Place (Category A) & 2nd Place (Category B): Korean Culture Question Answering
+  - 1st Place (Category 가) & 2nd Place (Category 나): Korean Culture Question Answering
 
 - **Best Paper Award (COLING 2022 Gyeongju Paper Award)**
   - The 2025 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2025) (Oct 2025)
