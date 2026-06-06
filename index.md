@@ -20,6 +20,7 @@ Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk 
 ## Publications
 - **Enhancing Tutor Utterance Quality via GRPO Guided by Student Learning Outcomes** (KSC 2025)
   - **Jiwoo Song**, Juoh Sun, Harksoo Kim
+  - [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577791)
 
 - **Building a Math Tutoring Model Using Model Merging Techniques** (HCLT 2025)
   - Juoh Sun, Geon Park, **Jiwoo Song**, Harksoo Kim
