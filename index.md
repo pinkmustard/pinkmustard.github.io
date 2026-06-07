@@ -48,7 +48,7 @@ Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk 
 
 ## Awards
 - **2nd Place**
-  - SemEval-2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures – Track 1: Short Answer Questions (SAQ)
+  - SemEval-2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures – Track 1: Short Answer Questions (SAQ) (Mar 2026)
 
 - **Grand Prize & KT Special Award**
   - AI Malpyeong, National Institute of Korean Language (Oct 2025)
