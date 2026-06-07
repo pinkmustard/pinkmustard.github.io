@@ -1,5 +1,5 @@
 ## About
-Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](https://www.konkuk.ac.kr/konkuk/index.do), advised by Harksoo Kim.
+Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk Univ](https://www.konkuk.ac.kr/konkuk/index.do), advised by [Harksoo Kim](https://scholar.google.com/citations?user=D2wbG84AAAAJ&hl=en).
 
 
 ## Education
