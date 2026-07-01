@@ -18,6 +18,13 @@ Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk 
 
 
 ## Publications
+- **K-NLPers at SemEval-2026 Task 7: Multiple LLM Agent Debate System for Everyday Knowledge Across Diverse Languages and Cultures**(SemEval 2026 workshop at ACL 2026)
+  - **Jiwoo Song**, Sihyeong Yeom, Harksoo Kim
+  - [paper](https://aclanthology.org/2026.semeval-1.410/)
+
+- **A Mathematics Tutor Based on Pedagogical Plan-Driven LLM Orchestration** (KCC 2026)
+  - **Jiwoo Song**, Juoh Sun, Harksoo Kim
+
 - **Enhancing Tutor Utterance Quality via GRPO Guided by Student Learning Outcomes** (KSC 2025)
   - **Jiwoo Song**, Juoh Sun, Harksoo Kim
   - [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577791)
