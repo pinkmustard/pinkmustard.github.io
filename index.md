@@ -18,6 +18,10 @@ Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk 
 
 
 ## Publications
+- **Enhancing Sarcopenia Prediction with Genetic Algorithms for Feature Selection** (Journal of KIISE, 2026)
+  - **Jiwoo Song**, Juoh Sun, Geon Park, Harksoo Kim
+  - [paper](https://www.kiise.or.kr/e_journal/2026/8/JOK/10.pdf)
+
 - **K-NLPers at SemEval-2026 Task 7: Multiple LLM Agent Debate System for Everyday Knowledge Across Diverse Languages and Cultures**(SemEval 2026 workshop at ACL 2026)
   - **Jiwoo Song**, Sihyeong Yeom, Harksoo Kim
   - [paper](https://aclanthology.org/2026.semeval-1.410/)
@@ -39,7 +43,7 @@ Hello👋, I am a M.S. student at [NLP Lab](http://nlp.konkuk.ac.kr/) @ [Konkuk 
 
 - **Enhancing Sarcopenia Prediction with Genetic Algorithms for Feature Selection** (Journal of KIISE, 2025)
   - **Jiwoo Song**, Jaehyeong Lee, Yourim Yoon
-  - [paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003243724)
+  - [paper](https://www.kiise.or.kr/e_journal/2025/9/JOK/04.pdf)
 
 - **K-NLPers at BEA 2025 Shared Task: Evaluating the Quality of AI Tutor Responses with GPT-4.1** (BEA workshop at ACL 2025)
   - Geon Park<sup>\*</sup>, **Jiwoo Song<sup>\*</sup>**, Gihyeon Choi<sup>\*</sup>, Juoh Sun<sup>\*</sup>, Harksoo Kim
